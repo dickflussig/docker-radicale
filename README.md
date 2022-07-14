@@ -358,7 +358,7 @@ Below are the instructions for updating containers:
 - Delete the container: `docker rm radicale`
 - You can also remove the old dangling images: `docker image prune`
 
-<!-- ## Building Locally ##
+## Building Locally ##
 If you prefer to build the image locally:
 
 ```bash
@@ -368,4 +368,4 @@ docker build \
   --no-cache \
   --pull \
   -t dickflussig/radicale:latest .
-``` -->
+```
