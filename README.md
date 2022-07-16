@@ -223,7 +223,7 @@ realm = Radicale - Password Required
 
 ### Storage ###
 
-Collection data is stored in `storage` folder and made accessible to the locale system via bind mount.
+Collection data is stored in the `storage` folder and made accessible to the locale system via bind mount.
 
 
 ```yaml
